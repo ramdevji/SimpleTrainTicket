@@ -7,3 +7,9 @@ Python 3.9.6<br/>
 pip<br/>
 Sanic - pip3 install sanic<br/>
 sanic_ext
+
+
+## Sample working output
+![alt text](https://github.com/ramdevji/SimpleTrainTicket/blob/master/TrainTicketBooKingSystem/service_running.png) <br/>
+![alt text](https://github.com/ramdevji/SimpleTrainTicket/blob/master/TrainTicketBooKingSystem/local_server_output.png)
+
